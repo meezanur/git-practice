@@ -1,0 +1,74 @@
+html{
+    color: ghostwhite;
+}
+
+ table,th,td{
+
+border: 2px solid springgreen;
+border-collapse: collapse;
+padding: 15px; 
+}
+
+h1{
+    color:gold;
+    text-align: center;
+    transform:uppercase;
+}
+::backdrop,body{
+border-image-width:auto;
+}
+ 
+ #secondptag{
+color:blue;
+ }
+
+ #dort{
+    color:rgb(255, 124, 124);text-align:right
+     }
+     p.pan{
+         color: rgb(190, 253, 128);text-align:right
+     }
+    p.gold{
+        color: gold;text-align:right
+    }
+ 
+ tr.simpleclass{
+   color: rgb(255, 255, 255); background-color: rgb(84, 84, 251);
+ }
+ #netwone{
+    color:rgb(0, 47, 0); background-color: chartreuse;
+ }
+ button.here{
+     color: springgreen;background-color: black;
+ }
+ #ptag{
+     color:hsl(174, 100%, 55%);
+ }
+ script.href{
+  text-emphasis-style:href=" https://www.MeezanurRahman1982@gmail.com/";
+
+ }
+ #to{
+    color: chartreuse; text-align: center;
+ }
+ form.name{
+     text-align: center;color:rgb(17, 255, 255);
+ }
+ input{
+     padding: 7px;
+ }
+ button{
+     color: chartreuse;background-color: black;
+ }
+ input.nameto{
+     color: chartreuse;background-color: black;
+ }
+ option.form{
+    color: chartreuse;background-color: black;
+}
+#ur{
+    color: chartreuse;background-color: black; 
+}
+#me{
+    color:rgb(255, 221, 25);background-color:rgb(2, 138, 70); 
+}
